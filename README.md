@@ -11,7 +11,6 @@ Netflix é um projeto clone do Laravel [Netflix](https://netflix.com) usando TAL
 * [Screenshots](#screenshots)
 * [Requisitos](#requirements)
 * [Instalação](#installation)
-* [Contribuindo](#contributing)
 * [Licença](#license)
 
 <a name="screenshots"></a>
@@ -108,11 +107,6 @@ Veja como você pode executar o projeto localmente:
 1. Visite `localhost:8000` no seu navegador.     
 
     > Certifique-se de seguir o ambiente de desenvolvimento local do Laravel.
-
-<a name="contributing"></a>
-## Contributing
-
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 <a name="license"></a>
 ## License
