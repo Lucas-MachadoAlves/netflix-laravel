@@ -19,13 +19,13 @@ Netflix é um projeto clone do Laravel [Netflix](https://netflix.com) usando TAL
 
 ![home page](https://raw.githubusercontent.com/Lucas-MachadoAlves/netflix-laravel/main/public/img/home.png)
 
-veja a página completa [here](https://raw.githubusercontent.com/Lucas-MachadoAlves/netflix-laravel/main/public/img/home-full-page.png)
+veja a página completa [aqui](https://raw.githubusercontent.com/Lucas-MachadoAlves/netflix-laravel/main/public/img/home-full-page.png)
 
 ![movies header](https://raw.githubusercontent.com/Lucas-MachadoAlves/netflix-laravel/main/public/img/movies-header.png)
 
 ![movies](https://raw.githubusercontent.com/Lucas-MachadoAlves/netflix-laravel/main/public/img/movies.png)
 
-veja a página completa [here](https://raw.githubusercontent.com/Lucas-MachadoAlves/netflix-laravel/main/public/img/movies-full-page.png)
+veja a página completa [aqui](https://raw.githubusercontent.com/Lucas-MachadoAlves/netflix-laravel/main/public/img/movies-full-page.png)
 
 ![Detail movies](https://raw.githubusercontent.com/Lucas-MachadoAlves/netflix-laravel/main/public/img/details-movie.png)
 
@@ -63,7 +63,7 @@ Veja como você pode executar o projeto localmente:
     ```
 1. Criar banco de dados `netflix` (você pode alterar o nome do banco de dados)
 
-1. Crie uma conta e obtenha uma chave API themoviedb [ here](https://www.themoviedb.org/settings/api). Certifique-se de copiar `API Read Access Token (v4 auth)`.
+1. Crie uma conta e obtenha uma chave API themoviedb [ aqui](https://www.themoviedb.org/settings/api). Certifique-se de copiar `API Read Access Token (v4 auth)`.
 
 1. Ir para o arquivo `.env` 
     - definir credenciais do banco de dados (`DB_DATABASE=netflix`, `DB_USERNAME=root`, `DB_PASSWORD=`)
