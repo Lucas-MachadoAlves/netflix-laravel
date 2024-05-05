@@ -21,17 +21,17 @@ Velflix is a Laravel [Netflix](https://netflix.com) clone project using TALL sta
 <a name="screenshots"></a>
 ## Screenshots
 
-![home page](https://raw.githubusercontent.com/Lucas-MachadoAlves/velflix/main/public/img/home.png)
+![home page](https://raw.githubusercontent.com/Lucas-MachadoAlves/netflix-laravel/main/public/img/home.png)
 
-see full page [here](https://raw.githubusercontent.com/Lucas-MachadoAlves/velflix/main/public/img/home-full-page.png)
+see full page [here](https://raw.githubusercontent.com/Lucas-MachadoAlves/netflix-laravel/main/public/img/home-full-page.png)
 
-![movies header](https://raw.githubusercontent.com/Lucas-MachadoAlves/velflix/main/public/img/movies-header.png)
+![movies header](https://raw.githubusercontent.com/Lucas-MachadoAlves/netflix-laravel/main/public/img/movies-header.png)
 
-![movies](https://raw.githubusercontent.com/Lucas-MachadoAlves/velflix/main/public/img/movies.png)
+![movies](https://raw.githubusercontent.com/Lucas-MachadoAlves/netflix-laravel/main/public/img/movies.png)
 
-see full page [here](https://raw.githubusercontent.com/Lucas-MachadoAlves/velflix/main/public/img/movies-full-page.png)
+see full page [here](https://raw.githubusercontent.com/Lucas-MachadoAlves/netflix-laravel/main/public/img/movies-full-page.png)
 
-![Detail movies](https://raw.githubusercontent.com/Lucas-MachadoAlves/velflix/main/public/img/details-movie.png)
+![Detail movies](https://raw.githubusercontent.com/Lucas-MachadoAlves/netflix-laravel/main/public/img/details-movie.png)
 
 <a name="requirements"></a>
 ## Requirements
