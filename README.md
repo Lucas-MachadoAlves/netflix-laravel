@@ -2,12 +2,9 @@
 <p align="center"><a href="https://github.com/Lucas-MachadoAlves/netflix-laravel/blob/main/LICENSE"><img src="https://poser.pugx.org/cpriego/valet-linux/license.svg" alt="License"></a>
 </p>
 
-## About
+## Sobre
 
 Netflix é um projeto clone do Laravel [Netflix](https://netflix.com) usando TALL stack ([Tailwindcss](https://tailwindcss.com/), [Alpinejs](https://github.com/alpinejs/alpine/), [Laravel](https://laravel.com/), [Livewire](https://laravel-livewire.com/) ).
-
-> **Note**
-> Work in Progress
 
 ## Índice
 
@@ -22,13 +19,13 @@ Netflix é um projeto clone do Laravel [Netflix](https://netflix.com) usando TAL
 
 ![home page](https://raw.githubusercontent.com/Lucas-MachadoAlves/netflix-laravel/main/public/img/home.png)
 
-see full page [here](https://raw.githubusercontent.com/Lucas-MachadoAlves/netflix-laravel/main/public/img/home-full-page.png)
+veja a página completa [here](https://raw.githubusercontent.com/Lucas-MachadoAlves/netflix-laravel/main/public/img/home-full-page.png)
 
 ![movies header](https://raw.githubusercontent.com/Lucas-MachadoAlves/netflix-laravel/main/public/img/movies-header.png)
 
 ![movies](https://raw.githubusercontent.com/Lucas-MachadoAlves/netflix-laravel/main/public/img/movies.png)
 
-see full page [here](https://raw.githubusercontent.com/Lucas-MachadoAlves/netflix-laravel/main/public/img/movies-full-page.png)
+veja a página completa [here](https://raw.githubusercontent.com/Lucas-MachadoAlves/netflix-laravel/main/public/img/movies-full-page.png)
 
 ![Detail movies](https://raw.githubusercontent.com/Lucas-MachadoAlves/netflix-laravel/main/public/img/details-movie.png)
 
